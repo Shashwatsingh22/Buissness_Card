@@ -13,4 +13,4 @@ To setup this same App in your PC then ---</h4>
   --> Now Debug In your Mobile or AVD ...
 </pre>
 <h4>Screenshot :- </h4>
-<img src="assets/1.jpg"  height="500px" weidth="300px">
+<img src="assets/1d.jpg"  height="500px" weidth="300px">
